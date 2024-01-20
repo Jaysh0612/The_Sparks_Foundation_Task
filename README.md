@@ -19,7 +19,5 @@ While I was working as an intern at [The Sparks Foundation](https://www.thespark
 - What will be predicted score if a student studies for 9.25 hrs/ day?
 
 > => [Github Link](https://github.com/Jaysh0612/The_Sparks_Foundation_Task/blob/main/Task_1-%20Prediction_Using_Supervised_ML.ipynb)
-
 > => [Dataset Link](http://bit.ly/w-data)
-
 > => [Linkdin Link](https://www.linkedin.com/feed/update/urn:li:activity:7154397288843358209/)
