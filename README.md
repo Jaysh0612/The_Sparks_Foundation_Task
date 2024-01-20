@@ -7,7 +7,7 @@ While I was working as an intern at [The Sparks Foundation](https://www.thespark
 
 **Internship Type** - Work from Home
 
-**Internship Duration** - 1 Month i.e. March 2022
+**Internship Duration** - 1 Month i.e. January 2024
 <hr>
 
 ## Task 1: Prediction Using Unsupervised ML (Beginner Level)
